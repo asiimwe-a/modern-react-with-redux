@@ -1,5 +1,5 @@
 function BookList() {
-    return <div>BookList</div>;
+    return <div></div>;
 }
 
 export default BookList;
